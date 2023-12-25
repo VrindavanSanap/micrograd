@@ -1,7 +1,7 @@
 # Micrograd
 
 
-## Extremely small reversemode autograd engine based on autograd
+## Extremely small reverse mode autograd engine based on autograd
 
 This repo contaions code that I wrote based on lecture "The spelled-out intro to neural networks and backpropagation"
 
